@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>SILENT17 - Página Oficial</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #00ffcc;
+    }
+    a {
+      color: #00ffcc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>SILENT17</h1>
+  <p>Cantante urbano emergente. Bienvenidos a su página oficial.</p>
+
+  <h2>Escúchalo aquí</h2>
+  <p><a href="https://youtube.com/@SILENT17" target="_blank">Canal de YouTube</a></p>
+  <p><a href="https://instagram.com/SILENT17" target="_blank">Instagram</a></p>
+  <p><a href="mailto:contacto@silent17.com">Contacto por email</a></p>
+</body>
+</html>
+
